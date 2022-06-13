@@ -1,4 +1,3 @@
-
 1. kodlarni yuklab olib, hostingga yuklang.
 2. keyin browser orqali urlni oching.
 
