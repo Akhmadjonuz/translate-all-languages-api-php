@@ -1,7 +1,7 @@
 1. kodlarni yuklab olib, hostingga yuklang.
 2. keyin browser orqali urlni oching.
 
-misol: https://bots.uitc-host.uz/api/translate.php?from=en_US&to=uz_UZ&text=salom
+Misol: https://bots.uitc-host.uz/api/translate.php?from=en_US&to=uz_UZ&text=salom
 
 # Mualliflik huquqi saqlansin!
 # dadabayev.uz
