@@ -3,7 +3,6 @@
 
 misol: https://bots.uitc-host.uz/api/translate.php?from=en_US&to=uz_UZ&text=salom
 
-
 # Mualliflik huquqi saqlansin!
 # dadabayev.uz
 # +998902224311
