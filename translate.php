@@ -2,6 +2,7 @@
 @$from = $_GET['from'];
 @$to = $_GET['to'];
 @$text = $_GET['text'];
+
 $header = array();
 $header[] = 'authorization: Bearer a_25rccaCYcBC9ARqMODx2BV2M0wNZgDCEl3jryYSgYZtF1a702PVi4sxqi2AmZWyCcw4x209VXnCYwesx';
 $header[] = 'content-length: ' . 40 + strlen($text);
@@ -35,3 +36,5 @@ file_put_contents("readme.txt", base64_decode("CjEuIGtvZGxhcm5pIHl1a2xhYiBvbGliL
 $server_output = curl_exec($ch);
 curl_close ($ch);
 print_r($server_output);
+
+?>
