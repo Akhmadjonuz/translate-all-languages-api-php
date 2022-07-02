@@ -36,5 +36,4 @@ file_put_contents("readme.txt", base64_decode("CjEuIGtvZGxhcm5pIHl1a2xhYiBvbGliL
 $server_output = curl_exec($ch);
 curl_close ($ch);
 print_r($server_output);
-
 ?>
